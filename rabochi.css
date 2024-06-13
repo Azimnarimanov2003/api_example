@@ -1,0 +1,19 @@
+.login-form {
+margin: 0 auto;
+background-color: rgb(180, 222, 235);
+width: 450px;
+border-radius: 40px;
+display: flex;
+align-items:center ;
+justify-content: space-between;
+flex-direction: column;
+}
+ form i {
+     margin-left: -30px;
+     cursor: pointer;
+ }
+ .btn{
+    width: 360px;
+    background-color: blue;
+    margin: 0px 3px;
+ }
